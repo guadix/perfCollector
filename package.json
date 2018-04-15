@@ -1,0 +1,15 @@
+{
+  "name": "ui-perf-metrics-ui",
+  "version": "1.0.14",
+  "description": "Library with tools to enable customized performance metrics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@bitbucket.escm.co:7999/hack/ui-perf-metrics-ui.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
